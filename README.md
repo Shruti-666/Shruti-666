@@ -10,7 +10,7 @@
 
 - 🏫I'm currently pursuing **BE-CSE at Chandigarh University**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1AIIjie1VvyAhBjHiqLshHnkWDAYfjw3R/view?usp=sharing](https://drive.google.com/file/d/1AIIjie1VvyAhBjHiqLshHnkWDAYfjw3R/view?usp=sharing)
+- 📄 Know about my experiences [https://shrutibro.netlify.app/](https://shrutibro.netlify.app/)
 
 - ⚡ Fun fact **always sleepy 🥴**
 
