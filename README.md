@@ -4,7 +4,7 @@
 
 <img align="right" alt="coding girl" width="400" src="https://cdn.dribbble.com/users/1951182/screenshots/4560823/800x600.gif">
 
-- 🔭 I’m currently working on **Abstractive Text Summarization**
+- 🔭 I’m currently working on **Data Analytics**
 
 - 🌱 I’m currently learning **Data Visualization with Tablue**
 
