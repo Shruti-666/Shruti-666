@@ -6,7 +6,7 @@
 
 - 🔭 I’m currently working on **Data Analytics**
 
-- 🌱 I’m currently learning **Data Visualization with Tablue**
+- 🌱 I’m currently learning **Javascipt**
 
 - 🏫I'm currently pursuing **BE-CSE at Chandigarh University**
 
