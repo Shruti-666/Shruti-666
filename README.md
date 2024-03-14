@@ -10,7 +10,7 @@
 
 - 📫 How to reach me **shrutivats.0503@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1-Qw0gkcCJJruPk9D4QCPjicec0Btq-kc/view?usp=sharing](https://drive.google.com/file/d/1-Qw0gkcCJJruPk9D4QCPjicec0Btq-kc/view?usp=sharing)
+- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1-Qw0gkcCJJruPk9D4QCPjicec0Btq-kc/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
