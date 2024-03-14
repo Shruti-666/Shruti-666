@@ -6,7 +6,7 @@
 
 - 🌱 I’m currently learning **Flask**
 
-- 👨‍💻 All of my projects are available at [https://shrutibro.netlify.app/](https://shrutibro.netlify.app/]
+- 👨‍💻 All of my projects are available at [PortFolio] (https://shrutibro.netlify.app/](https://shrutibro.netlify.app/)
 
 - 📫 How to reach me **shrutivats.0503@gmail.com**
 
