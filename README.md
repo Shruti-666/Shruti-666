@@ -1,10 +1,10 @@
 <h1 align="center">Hi 👋, I'm Shruti Vats</h1>
-<h3 align="center">Aspiring Software Engineer | Data Analytics Enthusiast | PowerBI & Machine Learning</h3>
+<h3 align="center">Aspiring Software Developer | Data Analytics Enthusiast | PowerBI & Machine Learning</h3>
 
 <img align="right" alt="coding girl" width="400" src="https://cdn.dribbble.com/users/1951182/screenshots/4560823/800x600.gif">
-- 🔭 I’m currently working on **Customer Churn Analysis**
+- 🔭 I’m currently working on **Python Development**
 
-- 🌱 I’m currently learning **Flask**
+- 🌱 I’m currently learning **Django**
 
 - 👨‍💻 All of my projects are available at [Portfolio](https://shrutibro.netlify.app/)
 
